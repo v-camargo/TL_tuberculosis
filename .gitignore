@@ -1,0 +1,12 @@
+# Ignore datasets 
+dados/
+
+# Ignore mlrun
+mlruns/
+
+# Ignore old or not research related folders
+modelos_hiperparametrizados/
+modelos_hiperparametrizados_v2/
+catboost_info/
+
+
