@@ -7,6 +7,12 @@ mlruns/
 # Ignore old or not research related folders
 modelos_hiperparametrizados/
 modelos_hiperparametrizados_v2/
+modelos_hiperparametrizados_pos_pandemia/
 catboost_info/
 
+# Ignore pickle files
+*.pkl
 
+
+#Ignore selected pdfs files
+pdfs/
